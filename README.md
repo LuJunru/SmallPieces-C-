@@ -1,1 +1,1 @@
-# SmallPieces-C-
+# SmallPieces-C++
